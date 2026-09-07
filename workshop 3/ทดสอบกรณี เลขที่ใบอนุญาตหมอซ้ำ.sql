@@ -1,2 +1,0 @@
-INSERT INTO vet (vet_id, license_no, name, start_date) VALUES (88, 'V-9999', 'หมอใจป้ำ', '2023-05-01');
-INSERT INTO vet (vet_id, license_no, name, start_date) VALUES (99, 'V-9999', 'หมอมือเบา', '2023-06-01');
